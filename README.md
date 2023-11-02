@@ -1,3 +1,5 @@
+The application shows the basics of working with web technologies.  It is based on CRUD technology, that is, these four basic operations are present in the application.  It includes all the basic concepts of React.  A ready-made set of classes from the CSS framework cdnjs is used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
